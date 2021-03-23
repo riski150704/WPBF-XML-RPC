@@ -1,4 +1,4 @@
-Chat on Telegram: [![Telegram](https://img.shields.io/badge/webiste-live-brightgreen.svg?style=flat-square)](https://t.me/tumanganz)
+Chat on Telegram: [![Telegram](https://icons.iconarchive.com/icons/froyoshark/enkel/64/Telegram-icon.png)](https://t.me/tumanganz)
 ![AI](https://cdn-142.anonfiles.com/e9weg8m2u6/54e7fed8-1616505551/images.png)
 # AI(Artificial Intelligence)
 This a simple code Artificial Intelligence [Ai-Chan](https://github.com/riski150704/AI-Chan)
