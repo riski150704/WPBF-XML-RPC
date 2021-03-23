@@ -1,5 +1,5 @@
 Chat on Telegram: [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/tumanganz)
-[![AI](https://cdn-142.anonfiles.com/e9weg8m2u6/54e7fed8-1616505551/images.png)]
+(https://cdn-142.anonfiles.com/e9weg8m2u6/54e7fed8-1616505551/images.png)
 # AI(Artificial Intelligence)
 This a simple code Artificial Intelligence [Ai-Chan](https://github.com/riski150704/AI-Chan)
 
