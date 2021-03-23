@@ -1,4 +1,4 @@
-![AI](https://cdn-142.anonfiles.com/e9weg8m2u6/54e7fed8-1616505551/images.png)
+![AI](https://cdn-123.anonfiles.com/Q820g1mbue/e7656d38-1616506295/images.svg)
 # AI(Artificial Intelligence)
 This a simple code Artificial Intelligence [Ai-Chan](https://github.com/riski150704/AI-Chan)
 
